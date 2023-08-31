@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Administrator\Desktop\cpp代码\Main\Release\Main.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Administrator\Desktop\cpp代码\Main\TinyJsonParser-master\include\minunit.h</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Administrator\Desktop\cpp代码\Main\TinyJsonParser-master\pdjson.hpp</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
